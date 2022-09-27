@@ -1,0 +1,12 @@
+{
+  "resourceName": "s3shoppingliststorage",
+  "bucketName": "shopping-list-storage",
+  "policyUUID": "b8461273",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ]
+}
