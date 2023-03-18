@@ -70,4 +70,4 @@ def getData():
  
 getData()
 
-ui.run(port=80, title='Shopping List')
+ui.run(host='list.carman.page', port=80, title='Shopping List')
